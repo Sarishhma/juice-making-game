@@ -324,6 +324,20 @@ position: relative;
     border-radius: 15px;
     box-shadow: 0 10px 15px red;
 }
+.score button{
+     padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+   display: block ;
+   margin: 0 auto;
+   margin-top: 20px;
+   background: linear-gradient(135deg, #FF9A8B 0%, #FF6B95 50%, #FF8E53 100%);
+  color: white;
+    border: none;
+     box-shadow: 0 4px 15px rgba(255, 105, 149, 0.4);
+     transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+
+}
 /* style.css */
 /* ... your existing styles ... */
 
